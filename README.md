@@ -11,10 +11,10 @@ The dataset contains time-based environmental readings such as humidity, pressur
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. The program loads and cleans the weather dataset, and performs feature engineering using time and lag features.
-2. It selects features, splits the data, and prepares inputs for multiple targets.
-3. Random Forest models are trained and evaluated using R² and MAE metrics.
-4. The results are visualized, and future values are predicted using recent data.
+1. Load the weather dataset, and perform feature engineering using time and lag features.
+2. Select the features, split the data, and prepare inputs for multiple targets.
+3. Train the Random Forest models and evaluate using R² and MAE metrics.
+4. Visualize the result, and predict the future values using recent data.
 
 ## Program:
 ```
